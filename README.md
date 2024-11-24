@@ -64,20 +64,20 @@ Identifying the design properties of a mockup is essntial in maintaining a consi
 
 ## Project roles and Responsibilities
 
-In a development team each person plays an important role in achieving success. Example of roles and the description in a team include:
+In a development team each person plays an important role in achieving success. Example of roles in a team include:
 
 ### Project manager
 
- Is in charge of the project and  is responsible for planning, executing and closing proects.
- Responsibilities include:
+ Is in charge of the project and  is responsible for planning, executing and closing proects.  
+ Responsibilities include:  
  -Overseeing project progress and ensure milestones are met.  
  -Managing project timelines, budget, and resources.  
  -Identifying and mitigating risks.  
 
 ### Product Owner
 
-Defines the vision of the product and ensures that it meets the needs of the user.
-Key responsibilities include:
+Defines the vision of the product and ensures that it meets the needs of the user.  
+Key responsibilities include:  
 -Defining and prioritizing product features and requirements.  
 -Ensuring the product delivers value to users and aligns with business goals.  
 -Making decisions on scope and accept completed work.  
@@ -92,15 +92,15 @@ Key responsibilities include:
 
 ### Frontend Developer
 
-Builds the client-side of the application, ensuring a smooth and engaging user experience.
-Key responsibilities include:
+Builds the client-side of the application, ensuring a smooth and engaging user experience.  
+Key responsibilities include:  
 -Implementing UI/UX designs using HTML, CSS, and JavaScript.  
 -Developing React components and integrating them with backend APIs.  
 -Optimizing the application for maximum speed and scalability.  
 
 ### Backend Deloper
 
-Builds the server-side of the application, manages data and ensures seamless communication between the server and the frontend.
+Builds the server-side of the application, manages data and ensures seamless communication between the server and the frontend.  
 Key responsibilities include:  
 -Developing and maintaining server-side logic.  
 -Designing and managing databases.  
@@ -108,7 +108,7 @@ Key responsibilities include:
 
 ### Designer
 
-COme up with the visial and interactive aspects of the application ensuring that it is user-friendly and aesthetically pleasing.  
+Comes up with the visial and interactive aspects of the application ensuring that it is user-friendly and aesthetically pleasing.  
 Key responsiblities include:  
 -Creating wireframes, mockups, and prototypes.  
 -Collaborating with frontend developers to implement designs.  
