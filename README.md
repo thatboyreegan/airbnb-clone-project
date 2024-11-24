@@ -49,7 +49,7 @@ A user-friendly design serves several puposes to a web app including:
 ### Color styles
 
 Primary color: Green.  
-Secondary colors: white, yellow, Dark grey.
+Secondary colors: white, yellow, Dark grey.  
 Background color: Light gray.  
 
 ### Typography
@@ -61,3 +61,72 @@ Font colors: white, dark gray
 ### The importance of identifying design properties of a mock up design
 
 Identifying the design properties of a mockup is essntial in maintaining a consistent look and feel of the application. It also helps to ensure that the design aligns itself with the client's visual guidlines. It also helps to reduce development time as well as addressing redundant code since the reusable patterns are indentified.  
+
+## Project roles and Responsibilities
+
+In a development team each person plays an important role in achieving success. Example of roles and the description in a team include:
+
+### Project manager
+
+ Is in charge of the project and  is responsible for planning, executing and closing proects.
+ Responsibilities include:
+ -Overseeing project progress and ensure milestones are met.  
+ -Managing project timelines, budget, and resources.  
+ -Identifying and mitigating risks.  
+
+### Product Owner
+
+Defines the vision of the product and ensures that it meets the needs of the user.
+Key responsibilities include:
+-Defining and prioritizing product features and requirements.  
+-Ensuring the product delivers value to users and aligns with business goals.  
+-Making decisions on scope and accept completed work.  
+
+### Scrum master
+
+Helps to facilitate Agile processes and ensuring that the team follows scrum practices.  
+Key responsibilities include:  
+-Organizing and facilitating Scrum ceremonies.  
+-Coaching the team on Agile principles and practices.  
+-Ensuring continuous improvement within the team.
+
+### Frontend Developer
+
+Builds the client-side of the application, ensuring a smooth and engaging user experience.
+Key responsibilities include:
+-Implementing UI/UX designs using HTML, CSS, and JavaScript.  
+-Developing React components and integrating them with backend APIs.  
+-Optimizing the application for maximum speed and scalability.  
+
+### Backend Deloper
+
+Builds the server-side of the application, manages data and ensures seamless communication between the server and the frontend.
+Key responsibilities include:  
+-Developing and maintaining server-side logic.  
+-Designing and managing databases.  
+-Optimizing server performance and scalability.  
+
+### Designer
+
+COme up with the visial and interactive aspects of the application ensuring that it is user-friendly and aesthetically pleasing.  
+Key responsiblities include:  
+-Creating wireframes, mockups, and prototypes.  
+-Collaborating with frontend developers to implement designs.  
+-Conducting usability testing to gather feedback and improve designs.  
+
+### QA/Tester
+
+Ensures the quality and reliability of the application by identifying and fixing bugs before release.  
+Key responsibilties include:  
+-Developing and executing test plans and test cases.  
+-Performing manual and automated testing.  
+-Identifying, documenting, and tracking bugs.  
+-Ensuring the application meets quality standards and user requirements.  
+
+### DevOps Engineer
+
+Focuses on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.  
+Key responsibilties include:  
+-Automating deployment processes.  
+-Managing cloud infrastructure and server configurations.  
+-Ensuring security and compliance in the production environment.  
