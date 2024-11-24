@@ -4,6 +4,8 @@
 
 The project is about designing, building and deploying a booking and management system based on the desing and implementation of AirBNB. This application will enable users to view available property listings and  book a property for a set preriod of time.
 
+### Project goals
+
 The goals of this project include but are not restricted to:
  -Aiding in the understanding of the design process for the client-side of a web app.  
  -Providing an avenue for learning how to adhere to designated timelines and milestones.  
