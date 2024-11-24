@@ -130,3 +130,22 @@ Key responsibilties include:
 -Automating deployment processes.  
 -Managing cloud infrastructure and server configurations.  
 -Ensuring security and compliance in the production environment.  
+
+## UI Component Patterns
+
+To achieve the goals of this project, seceral components have to be created. They include:  
+
+- More info component: This component is at the top of each page.It provides the user with the option to view travel guides incase of a trip oversease.  
+- Navbar: This components has the logo of the company, a search bar for fidning different listings with options for filtering the results and the sign in/ sign up buttons.  
+- First filter component: This component has options that filter the listings displayed according to the categor the listing falls into.  
+- Header: This component has an image as the background and text that convinces the user even further in the case of the property listings view and contains images of the property in the case of detailed property listing view.  
+- Second filter component: This has fewer options than the first filter component and also serves to ensure the user is only seeing the listings he is interested in.  
+- Property listing component: has details like the property's, image, name, location, price and a discount if the property offers one.  
+- Footer: Avails more details for the user like he help section, explore and the company section. All of shich are aimed at providing the app user with more details.  
+- Description: Contains all the details that describe the specific property lsiting. Is at least a paragraph.  
+- Ammenities offered: This components has all the ammenities that can be found in the specific property listing.  
+- Reviews: This components has a run down of the reviews made about the place. each review has name of the reviewer, type of trip and date when it was made.  
+- Reserve: This component has a form that collects information from a user, a dsplay of the prices calculated against the duration of stay and a button to allow for reservation of the space.  
+- Contact details: This componet is a form that collects the contact details of the user who wants to make a reservation.  
+- Pay with: This component collects the payment details of the user.  
+- Review Order details: THis component has a short and detailed rundown of the order details before a transaction is made.  
