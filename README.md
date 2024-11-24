@@ -15,7 +15,7 @@ The goals of this project include but are not restricted to:
 
 ### Techstack
 
- Here are the technologies used in this project:
+ Here are the technologies used in this project:  
  ![HTML5](https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -46,3 +46,18 @@ A user-friendly design serves several puposes to a web app including:
 -Helps in the retention of users and building loyalty in the user.
 -leads to a satisfying user experience.  
 
+### Color styles
+
+Primary color: Green.  
+Secondary colors: white, yellow, Dark grey.
+Background color: Light gray.  
+
+### Typography
+
+Font family: Sans-Serif
+Font weights: Medium-weight, Bold weight
+Font colors: white, dark gray
+
+### The importance of identifying design properties of a mock up design
+
+Identifying the design properties of a mockup is essntial in maintaining a consistent look and feel of the application. It also helps to ensure that the design aligns itself with the client's visual guidlines. It also helps to reduce development time as well as addressing redundant code since the reusable patterns are indentified.  
