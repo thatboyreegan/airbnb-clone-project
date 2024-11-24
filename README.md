@@ -62,7 +62,7 @@ Font colors: white, dark gray
 
 Identifying the design properties of a mockup is essntial in maintaining a consistent look and feel of the application. It also helps to ensure that the design aligns itself with the client's visual guidlines. It also helps to reduce development time as well as addressing redundant code since the reusable patterns are indentified.  
 
-## Project roles and Responsibilities
+## Project Roles and Responsibilities
 
 In a development team each person plays an important role in achieving success. Example of roles in a team include:
 
